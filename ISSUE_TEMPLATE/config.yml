@@ -1,0 +1,2 @@
+blank_issues_enabled: true
+contact_links: [{name: "Questions and ideas", url: "https://github.com/tatsoft-llc/FrameworX-Projects/discussions", about: "Ask in Discussions on the repository you are using."}, {name: "FrameworX product support", url: "https://support.tatsoft.mobi/login", about: "Licensed FrameworX customers get support here."}]
